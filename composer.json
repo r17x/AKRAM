@@ -1,0 +1,14 @@
+{
+    "name": "ake/sms",
+    "description": "nothing",
+    "authors": [
+        {
+            "name": "rAA7",
+            "email": "ri7nz.labs@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "telesign/telesign": "^2.2"
+    }
+}
